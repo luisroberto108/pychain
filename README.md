@@ -6,5 +6,5 @@ This project is an example of blockchain using python.
 
 ## Execution
 ```bash
-$python -m unittest -v
+python -m unittest -v
 ```
