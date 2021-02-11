@@ -8,7 +8,7 @@ class MainTest(unittest.TestCase):
 
     # For the blockchain, the proof of work will be the valid hash starting 
     # prefix number of 0. 
-    PREFIX = 5
+    PREFIX = 3
     PREFIX_STR = '0' * PREFIX
 
 
